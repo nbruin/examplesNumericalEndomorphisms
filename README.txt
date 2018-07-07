@@ -21,3 +21,6 @@ For Example 5.2 (ANTS Version):
 
 For Example 5.3 (ANTS Version):
     * genus4prym.sage -- Numerical check of a prym variety in genus 4
+
+For Example 5.4 (ArXiv Version):
+    * example4.sage -- Sage script for the computation
